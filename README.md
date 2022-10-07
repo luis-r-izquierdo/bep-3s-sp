@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7156266.svg)](https://doi.org/10.5281/zenodo.7156266)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7156265.svg)](https://doi.org/10.5281/zenodo.7156265)
 
 # BEP-3s-sp
 Mathematica notebook created to analyze Best Experienced Payoff (BEP) dynamics in 3 strategy games with several players
